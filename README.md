@@ -25,24 +25,17 @@
 [![Build Status](https://travis-ci.org/apache/cordova-windows.svg?branch=master)](https://travis-ci.org/apache/cordova-windows)
 [![codecov.io](https://codecov.io/github/apache/cordova-windows/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-windows?branch=master)
 
-This repo contains the code for an [Apache Cordova](http://cordova.apache.org) platform that allows you to build applications that target Windows 10, and Windows 8.1, as well as Windows Phone 8.1. An Apache Cordova based applications is written in HTML, CSS and JavaScript.
+This repo contains the code for an [Apache Cordova](http://cordova.apache.org) platform that allows you to build applications that target Windows 10. An Apache Cordova based applications is written in HTML, CSS and JavaScript.
 
-(Warning: Windows 8 has been deprecated, please update your applications to target Windows 8.1 or above)
+(Warning: Windows 8 and Windows 8.1 has been deprecated, please update your applications to target Windows 10 or above)
 
 [Apache Cordova](http://cordova.apache.org) is a project of [The Apache Software Foundation (ASF)](http://apache.org)
 
 # Requirements
-### Windows 10, Windows 8.1, Windows Phone 8.1
 
-Host OS: Windows 8.1 or Windows 10
+Host OS: Windows 10
 
-Install the tools: [Visual Studio 2015](http://www.visualstudio.com/downloads)
-
-### Windows 8.1,Windows Phone 8.1
-
-Host OS: Windows 8.1
-
-Install the tools: [Visual Studio 2013 Express](http://www.visualstudio.com/downloads/download-visual-studio-vs#d-express-windows-8).
+Install the tools: [Visual Studio](http://www.visualstudio.com/downloads)
 
 # Getting started
 The best way to use this is to install the [Cordova CLI](https://www.npmjs.com/package/cordova), create a project, add the windows platform, and run the app:
